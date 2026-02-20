@@ -1,0 +1,95 @@
+body{
+    background-color: rgba(0, 0, 0, 0.096);
+    align-items: center;
+    align-content: center;
+    justify-self: center;
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+
+
+}
+
+form{
+    border-radius: 2px solid black;
+    background-color: white;
+    display: block;
+    padding: 20px;
+    margin: 30px;
+    align-items: center;
+    border: none;
+    justify-items: center;
+    text-align: center;
+    width: 380px;
+    border-radius: 8px;
+    justify-self: center;
+    
+}
+
+input{
+    border: 1px solid rgba(0, 0, 0, 0.288);
+    display: block;
+    margin: 20px;
+    align-items: center;
+    align-self: center;
+    padding: 10px;
+    align-content:center ;
+    justify-content: center;
+    width: 350px;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+button{
+    background-color: rgba(0, 0, 255, 0.582);
+    border: none;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 350px;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
+
+button:hover{
+    background-color: rgba(0, 0, 255, 0.705);
+}
+
+p{
+    font-size: 18px;
+}
+
+.header{
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    font-size: 40px;
+    color: white;
+    background-color: rgba(0, 0, 255, 0.651);
+    padding: 20px;
+    margin: 0px;
+    text-align: center;
+    border-radius: 10px;
+    font: bold;
+}
+
+h2{
+    color: rgba(0, 0, 255, 0.5);
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+label{
+    float: left;
+    font-size: 20px;
+
+}
+
+
